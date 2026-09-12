@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 90.0,
+    "commit": "68986e7cd5fd891c6e6722a116f976ecd45ea8dc",
+    "cryo_temperature": 10.0,
+    "extract_device": "ChromiumCO2",
+    "extract_duration": 35.0,
+    "extract_units": "percent",
+    "extract_value": 30.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "WISCAR-145",
+    "load_name": "281",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 123,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 60.0,
+    "pre_cleanup_duration": 90.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "WISCAR-145",
+    "videos": [],
+    "weight": 0
+}
